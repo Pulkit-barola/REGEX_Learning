@@ -1,2 +1,2 @@
 # REGEX
-TRAINING IN PYTHON ,ML ,GEN AI
+Learning Python machine learning Deep learning
